@@ -7,7 +7,7 @@ description: "predicto.live is a suite of applications for data-manipulation, pr
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '226e70'
+  primary-dark: '#226e70'
   links: '#219ab3'
 
 # Footer settings
