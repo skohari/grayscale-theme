@@ -1,10 +1,9 @@
 # Site settings
 title: Predicto
-email: your-email@domain.com
+email: predicto.live@outlook.com
 url: https://skohari.github.io
-description: "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. 
-  It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "predicto.live is a suite of applications for data-manipulation, predictive model development and model validation.
+  "
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
