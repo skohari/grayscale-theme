@@ -9,7 +9,7 @@ body {
     height: 100%;
      /* font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
      font-family: 'Open Sans', sans-serif;  
-    font-weight: 300;
+    /*font-weight: 300;*/
     color: #fff;
     background-color: {{ site.color.primary-dark }};
 }
