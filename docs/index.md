@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: 
-description: One thing more
+description: We do one thing and do it well
 buttons:
     - content: Button
       url: '#'
