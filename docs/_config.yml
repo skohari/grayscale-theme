@@ -16,9 +16,9 @@ doks:
     footer:
         content:
             logo:
-                text: Project name
+                text: Project name1
                 image:
-            copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
+            copyright: Copyright &copy; 2020. - predicto.live <br>All rights reserved.
         social_list:
             - network_name: facebook
               profile_url: '#'
