@@ -4,8 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
-description: Project description
+title: predicto.live
+description: We do only two things in analytics: cut the complexity and repeat
 buttons:
     - content: Button
       url: '#'
