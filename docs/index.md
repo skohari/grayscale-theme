@@ -7,7 +7,7 @@ keywords:
 title: 
 description: We do one thing and do it well
 buttons:
-    - content: Button
+    - content: Button without icon
       url: '#'
       external_url: false
     - icon: github
