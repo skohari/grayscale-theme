@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
+title: Project nam
 description: Project description
 buttons:
     - content: Button
