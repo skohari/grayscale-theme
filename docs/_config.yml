@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: "predicto.live"
+    baseurl: predicto.live
     color_theme: green # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
