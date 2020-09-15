@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: 
-description: Project description
+description: We do one thing and one thing alone: extract insights from data
 buttons:
     - content: Button
       url: '#'
