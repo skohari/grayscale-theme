@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: predicto.live
+title: 
 description: Project description
 buttons:
     - content: Button
