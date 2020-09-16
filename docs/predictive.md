@@ -30,7 +30,7 @@ We assess your readiness for AI and understand the areas of your business that w
 ## Succeed in the long term by ensuring the right culture, organization, and processes are in place for analytics.
 Starting with rapid insights, we combine our AI COE and analytics to align with C-suite priorities and use cases. We deploy ongoing governance, development framework, technical architecture, and a value capture process to achieve and execute use cases across the enterprise.
 
-## Analytics as Valuable Information Asset
+## Analytics as Information Asset
 We roll up our sleeves and drive change together. That way, we can help your team develop the necessary knowledge and skills for maintaining a data-driven enterprise. That leads to real results:
 Greater efficiency
 A more productive workforce
