@@ -8,8 +8,6 @@ comments: false
 title: About us
 description: Our core team has industry consultants, data scientists, and user experience experts.
 
-We believe that 
-
 
 # Micro navigation
 micro_nav: true
