@@ -14,15 +14,15 @@ micro_nav: true
 
 ---
 
-# Co-founder and CEO
-Shahzeb Kohari
+# Shahzeb Kohari, Co-founder and CEO
+Shahzeb 
 
 
-# Co-founder and CTO
+# Milos Vilotic, Co-founder and CTO
 Milos Vilotic
 
-# Head of Business
-Viren Bavishi
+# Viren Bavishi, Head of Business
 
-# Head of Innovation and Design
-Uruj Kohari
+
+# Uruj Kohari, Head of Innovation and Design
+
