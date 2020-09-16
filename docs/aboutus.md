@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: About us
-description: > 
+description:  
   Our core team has industry consultants, data scientists, and user experience experts.
   With over a decade of parallel experience in Fortune 500 companies across US, Europe, and India.
   Having cross-industry experience like Finance, Retail and Web.
