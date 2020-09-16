@@ -6,7 +6,9 @@ comments: false
 
 # Hero section
 title: About us
-description: Our core team is has industry consultants, data scientists, and user experience experts.
+description: Our core team has industry consultants, data scientists, and user experience experts.
+
+We believe that 
 
 
 # Micro navigation
