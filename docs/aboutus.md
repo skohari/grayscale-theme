@@ -28,9 +28,14 @@ Milos, specializing in predictive analytics, has developed an industry leading i
 
 He is passionate about solutioning through visualization and advanced statistics.
 
-## Viren Bavishi, Head of Dicking Around
-Like the title says.
+
+## Viren Bavishi, Head of Business
+Viren has worked with the world's most reputed consultancies and helped businesses launch products and enter newer geographies.
+
+He is passionate about research and execution.
 
 
 ## Uruj Kohari, Head of Innovation and Design
+Uruj, specializing in user experience and design thinking, leads the final form of solutions from solution journey perspective.
 
+He is passionate about orthogonality and challenge-based programs.
