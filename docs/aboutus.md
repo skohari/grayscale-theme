@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: About us
-description: Our core team has industry consultants, data scientists, and user experience experts. /n how about new line.
+description: Our core team has industry consultants, data scientists, and user experience experts. With over a decade of parallel experience.
 
 
 # Micro navigation
@@ -14,4 +14,14 @@ micro_nav: true
 
 ---
 
-Write your markdown here ...
+# Co-founder and CEO
+Shahzeb Kohari
+
+
+# Co-founder and CTO
+Milos Vilotic
+
+# Business Head
+Viren Bavishi
+
+# 
