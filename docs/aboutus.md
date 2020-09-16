@@ -18,7 +18,7 @@ micro_nav: true
 ---
 
 ## Shahzeb Kohari, Co-founder and CEO
-Shahzeb has lead data science teams for one of the top global consulting firms helping Fortune 500 companies with long-term solutions in data science and analytics.
+Shahzeb has lead data science teams for one of the top global consulting firms; helping Fortune 500 companies with long-term solutions in data science and analytics.
 
 He is passionate about value generation through design and technology.
 
@@ -36,6 +36,6 @@ He is passionate about research and execution.
 
 
 ## Uruj Kohari, Head of Innovation and Design
-Uruj, specializing in user experience and design thinking, leads the final form of solutions from solution journey perspective.
+Uruj, specializing in user experience and design thinking, owns and leads the product form from a solution journey perspective.
 
 He is passionate about orthogonality and challenge-based programs.
