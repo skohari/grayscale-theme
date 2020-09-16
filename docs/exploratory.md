@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Page title
+title: Exploratory Data Science
 description: Page description
 
 # Author box
