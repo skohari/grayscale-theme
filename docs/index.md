@@ -17,7 +17,7 @@ grid_navigation:
     - title: Exploratory Data Science
       excerpt: Mining for answers in your data
       cta: Read more
-      url: '#'      
+      url: /exploratory      
     - title: Predictive Data Science
       excerpt: Forecasting key indicators for a horizon
       cta: Read more
