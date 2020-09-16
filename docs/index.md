@@ -17,8 +17,8 @@ grid_navigation:
       excerpt: Mining for answers in your data
       cta: Read more
       url: '#'      
-    - title: Predictive Analytics
-      excerpt: Forecasting for a horizon
+    - title: Predictive Data Science
+      excerpt: Forecasting key indicators for a horizon
       cta: Read more
       url: '#'
 ---
