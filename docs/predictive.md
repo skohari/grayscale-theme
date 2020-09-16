@@ -20,6 +20,7 @@ micro_nav: true
 
 # Prediction as a Service
 Establish-Apply-Succeed is the framework we use to develop strong control on outcomes that affect your bottomline.
+
 ![GitHub Logo](/docs/images/MultiRegression.png)
 
 ## Establish a data and analytics platform that’s right for your business
@@ -33,7 +34,6 @@ Starting with rapid insights, we combine our AI COE and analytics to align with 
 
 ## Analytics as Information Asset
 We roll up our sleeves and drive change together. That way, we can help your team develop the necessary knowledge and skills for maintaining a data-driven enterprise. That leads to real results:
-
 * Greater efficiency
 * A more productive workforce
 * Agility and speed to market
