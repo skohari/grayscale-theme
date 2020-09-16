@@ -7,6 +7,8 @@ comments: false
 # Hero section
 title: About us
 description: Our core team has industry consultants, data scientists, and user experience experts. With over a decade of parallel experience.
+Cross-industry expertise.
+
 
 # Micro navigation
 micro_nav: true
@@ -19,7 +21,7 @@ He is passionate about value generation through design and technology.
 
 
 # Milos Vilotic, Co-founder and CTO
-Milos Vilotic
+Milos 
 
 # Viren Bavishi, Head of Business
 
