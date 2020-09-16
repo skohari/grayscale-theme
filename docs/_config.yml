@@ -11,7 +11,7 @@ doks:
                 - item name: Exploratory
                   item_url: '#'
                 - item name: Predictive
-                  item_url: '#'
+                  item_url: /predictive
             - item_name: About Us
               item_url: '#'
             - item_name: Login (Members)
