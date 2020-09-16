@@ -10,11 +10,6 @@ buttons:
     - content: Button without icon
       url: '#'
       external_url: false
-    - icon: github
-      content: Button with icon
-      url: '#'
-      external_url: true
-
 
 # Grid navigation
 grid_navigation:
