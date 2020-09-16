@@ -4,14 +4,14 @@ doks:
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: Project name
+            text: predicto.live
             image:
         nav:
-            - item_name: Item 1
+            - item_name: Solutions
               item_url: '#'
-            - item_name: Item 2
+            - item_name: About Us
               item_url: '#'
-            - item_name: Item 3
+            - item_name: Login (Members)
               item_url: '#'
     footer:
         content:
