@@ -17,19 +17,19 @@ micro_nav: true
 
 ---
 
-## Shahzeb Kohari, Co-founder and CEO
+## Shahzeb Kohari, Co-founder and CEO [skohari@predicto.live]
 Shahzeb has lead data science teams for one of the top global consulting firms; helping Fortune 500 companies with long-term solutions in data science and analytics.
 
 He is passionate about value generation through design and technology.
 
 
-## Milos Vilotic, Co-founder and CTO
+## Milos Vilotic, Co-founder and CTO [milos.vilotic@predicto.live]
 Milos, specializing in predictive analytics, has developed an industry leading interactive machine learning platform combining the best of open-source and artificial intelligence. He brings years of experience to build-up or optimize the digital infrastructure for specific solutions.
 
 He is passionate about solutioning through visualization and advanced statistics.
 
 
-## Viren Bavishi, Head of Business
+## Viren Bavishi, Head of Business [sales@predicto.live]
 Viren has worked with the world's most reputed consultancies and helped businesses launch products and enter newer geographies.
 
 He is passionate about research and execution.
