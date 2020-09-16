@@ -21,7 +21,7 @@ doks:
             copyright: Copyright &copy; 2020. - predicto.live <br>All rights reserved.
         social_list:
             - network_name: skype
-              profile_url: '#'
+              profile_url: 'skype:predicto.live'
 #             - network_name: twitter
 #               profile_url: '#'
 #             - network_name: instagram
