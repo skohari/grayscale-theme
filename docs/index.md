@@ -12,13 +12,5 @@ buttons:
       external_url: false
 
 # Grid navigation
-grid_navigation:
-    - title: Exploratory Data Science
-      excerpt: Mining for answers in your data
-      cta: Read more
-      url: '#'      
-    - title: Predictive Data Science
-      excerpt: Forecasting key indicators for a horizon
-      cta: Read more
-      url: '#'
+
 ---
