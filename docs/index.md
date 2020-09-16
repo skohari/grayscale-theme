@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: 
-description: We do one thing and do it well: cut the complexity
+description: We design, code, and develop data science solutions
 buttons:
     - content: Button without icon
       url: '#'
