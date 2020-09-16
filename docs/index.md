@@ -8,7 +8,7 @@ title:
 description: We design, code, and develop data science solutions
 buttons:
     - content: More about us
-      url: '#'
+      url: baseurl/aboutus.md
       external_url: false
 
 # Grid navigation
