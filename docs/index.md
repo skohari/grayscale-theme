@@ -18,13 +18,13 @@ buttons:
 
 # Grid navigation
 grid_navigation:
-    - title: Grid navigation
-      excerpt: Section description
+    - title: Exploratory Data Science
+      excerpt: Mining for answers in your data
       cta: Read more
       url: '#'
 grid_navigation:
-    - title: Grid navigation1
-      excerpt: Section description
+    - title: Predictive Analytics
+      excerpt: Forecasting for a horizon
       cta: Read more
       url: '#'
 ---
