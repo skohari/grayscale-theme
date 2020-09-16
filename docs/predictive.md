@@ -21,7 +21,7 @@ micro_nav: true
 # Prediction as a Service
 Establish-Apply-Succeed is the framework we use to develop strong control on outcomes that affect your bottomline.
 
-![MultiRegression](/docs/images/MultiRegression.png)
+![MultiRegression](/images/MultiRegression.png)
 
 ## Establish a data and analytics platform that’s right for your business
 Depending on your needs, this might include data marts and warehouses, predictive and prescriptive modeling capabilities, big data solutions, and visualization capabilities. Our solutions leverage modern cloud architecture, data science, machine learning, and accelerators—such as our rapid analytics platform —that adapt easily to your continuously evolving business.
