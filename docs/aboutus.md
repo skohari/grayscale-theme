@@ -5,15 +5,9 @@ keywords:
 comments: false
 
 # Hero section
-title: Page title
-description: Page description
+title: About us
+description: Our core team is has industry consultants, data scientists, and user experience experts.
 
-# Author box
-author:
-    title: About Author
-    title_url: '#'
-    external_url: true
-    description: Author description
 
 # Micro navigation
 micro_nav: true
