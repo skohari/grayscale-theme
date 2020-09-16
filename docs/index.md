@@ -22,5 +22,4 @@ grid_navigation:
       excerpt: Forecasting key indicators for a horizon
       cta: Read more
       url: /predictive 
-      external_url: false
 ---
