@@ -28,4 +28,11 @@ grid_navigation:
       excerpt: Section description
       cta: Read more
       url: '#'
+
+# Grid navigation
+grid_navigation:
+    - title: Grid navigation1
+      excerpt: Section description
+      cta: Read more
+      url: '#'
 ---
