@@ -22,5 +22,6 @@ grid_navigation:
     - title: Predictive Data Science
       excerpt: Forecasting key indicators for a horizon
       cta: Read more
-      url: /predictive      
+      url: /predictive 
+      external_url: false
 ---
