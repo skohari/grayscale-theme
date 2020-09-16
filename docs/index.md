@@ -7,7 +7,7 @@ keywords:
 title: 
 description: We design, code, and develop data science solutions
 buttons:
-    - content: Button without icon
+    - content: Solutions
       url: '#'
       external_url: false
 
