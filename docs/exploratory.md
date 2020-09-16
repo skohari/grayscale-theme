@@ -8,14 +8,6 @@ comments: false
 title: Exploratory Data Science
 description: We offer research that help develop newer connection between different phenomena in your business processes. 
 
-# Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
 ---
 
 # Benefits of Digital Twins
