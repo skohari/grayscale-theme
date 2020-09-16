@@ -6,8 +6,7 @@ keywords:
 # Hero section
 title: 
 description: |
-    We design, code, and develop data science solutions.    
-    
+    We design, code, and develop data science solutions.
     Noiselessly
 buttons:
     - content: More about us
