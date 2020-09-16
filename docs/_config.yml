@@ -7,7 +7,9 @@ doks:
             text: predicto.live
             image:
         nav:
-            - item_name: Solutions
+            - item_name: Exploratory
+              item_url: /exploratory
+            - item_name: Predictive
               item_url: /predictive
             - item_name: About Us
               item_url: '#'
