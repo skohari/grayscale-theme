@@ -21,7 +21,8 @@ Shahzeb Kohari
 # Co-founder and CTO
 Milos Vilotic
 
-# Business Head
+# Head of Business
 Viren Bavishi
 
-# 
+# Head of Innovation and Design
+Uruj Kohari
