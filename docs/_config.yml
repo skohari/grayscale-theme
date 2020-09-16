@@ -20,14 +20,14 @@ doks:
                 image:
             copyright: Copyright &copy; 2020. - predicto.live <br>All rights reserved.
         social_list:
-            - network_name: facebook
+            - network_name: skype
               profile_url: '#'
-            - network_name: twitter
-              profile_url: '#'
-            - network_name: instagram
-              profile_url: '#'
-            - network_name: youtube
-              profile_url: '#'
+#             - network_name: twitter
+#               profile_url: '#'
+#             - network_name: instagram
+#               profile_url: '#'
+#             - network_name: youtube
+#               profile_url: '#'
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
