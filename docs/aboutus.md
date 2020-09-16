@@ -7,8 +7,6 @@ comments: false
 # Hero section
 title: About us
 description: Our core team has industry consultants, data scientists, and user experience experts. With over a decade of parallel experience.
-<br> break line
-
 
 # Micro navigation
 micro_nav: true
@@ -16,7 +14,8 @@ micro_nav: true
 ---
 
 # Shahzeb Kohari, Co-founder and CEO
-Shahzeb has worked for one of the top global consulting firms helping 
+Shahzeb has lead data science teams for one of the top global consulting firms helping Fortune 500 companies with long terms solutions in data science and analytics.
+He is passionate about value generation through design and technology.
 
 
 # Milos Vilotic, Co-founder and CTO
