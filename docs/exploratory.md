@@ -11,6 +11,9 @@ description: We offer research that help develop newer connection between differ
 ---
 
 # Benefits of Digital Twins
+The digital twin enables the individual process stages to be seamlessly linked. This creates a consistent improvement in efficiency, minimizes failure rates, shortens development cycles, and opens up new business opportunities.
+
+![DigitalTwin](/images/DigitalTwin.png)
 
 ## Increased reliability and availability
 
