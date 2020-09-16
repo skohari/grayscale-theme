@@ -12,7 +12,7 @@ doks:
             - item_name: Predictive
               item_url: /predictive
             - item_name: About Us
-              item_url: '#'
+              item_url: /aboutus
             - item_name: Login (Members)
               item_url: '#'
     footer:
