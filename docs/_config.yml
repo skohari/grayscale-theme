@@ -8,7 +8,10 @@ doks:
             image:
         nav:
             - item_name: Solutions
-              item_url: '#'
+                - item name: Exploratory
+                - item_url: '#'
+                - item name: Predictive
+                - item_url: '#'
             - item_name: About Us
               item_url: '#'
             - item_name: Login (Members)
