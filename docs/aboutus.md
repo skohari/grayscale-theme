@@ -27,7 +27,8 @@ He is passionate about value generation through design and technology.
 Milos, specializing in predictive analytics, has developed an industry leading interactive machine learning platform combining the best of open-source and artificial intelligence. He brings years of experience to build-up or optimize the digital infrastructure for specific solutions.
 He is passionate about solutioning through abstractions and advanced statistics
 
-# Viren Bavishi, Head of Business
+# Viren Bavishi, Head of Dicking Around
+Like the title says.
 
 
 # Uruj Kohari, Head of Innovation and Design
