@@ -6,7 +6,7 @@ keywords:
 # Hero section
 title: predicto.live
 description: |
-    <font size="+2">We design, code, and develop data science solutions.<br>Noiselessly.</font>
+     <font size="+1">We design, code, and develop data science solutions.<br>Noiselessly.</font>
 buttons:
     - content: More about us
       url: /aboutus
