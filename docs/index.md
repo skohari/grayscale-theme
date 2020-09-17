@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: predicto.live
+title: <font size="-2">predicto.live</font>
 description: |
      <font size="+1">We design, code, and develop data science solutions.<br>Noiselessly.</font>
 buttons:
