@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: 
+title: predicto.live
 description: |
     We design, code, and develop data science solutions.<br>Noiselessly.
 buttons:
