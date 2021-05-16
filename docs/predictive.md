@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Pedictive Data Science
+title: Predictive Data Science
 description: |
     We offer a unique approach focused on creating value early, exponentially and controlled. 
     We start by demonstrating how your data can tackle a key business problem—and then another and another. 
